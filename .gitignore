@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+env/
+*.csv  # If you have large data files
+*.log  # If you generate log files
